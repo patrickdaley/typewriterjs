@@ -5,6 +5,7 @@ const config = {
   entry: {
     core: resolve('src', 'core', 'index.js'),
     react: resolve('src', 'react'),
+    vue: resolve('src', 'vue')
   },
 
   output: {
