@@ -1,4 +1,4 @@
-import { defineComponent, h, onMounted, onUnmounted } from 'vue-demi'
+import { defineComponent, h, onMounted, onUnmounted, ref } from 'vue-demi'
 import TypewriterCore from './../core';
 
 export default defineComponent({
